@@ -44,3 +44,30 @@ npm run dev
 Testing the App
 npm test
 
+# My Project
+
+This is my awesome project.
+
+## Screenshots
+
+### Home Page first look
+![Home Page first look](./src//assets//screenshorts//first.png)
+### after clickd dark mode
+![after clickd dark mode](./src//assets//screenshorts/2nd.png)
+### add item
+![add item](./src//assets//screenshorts/additem.png)
+### update item
+![update item](./src//assets//screenshorts/updateitem.png)
+### delete item
+![delete item](./src//assets//screenshorts/delete.png)
+### delete all item
+![delete all item](./src//assets//screenshorts/deleteall.png)
+### task page
+![task page](./src//assets//screenshorts/taskpage.png)
+### description 1
+![description 1](./src//assets//screenshorts/info1.png)
+### description 2
+![description 2](./src//assets//screenshorts/info2.png)
+
+
+
